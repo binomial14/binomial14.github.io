@@ -17,7 +17,8 @@ In addition, I am a maker and love hand-made stuffs. I am also the starting shoo
 ## Automatic Forehead Thermometr
 ![AutomaticForeheadThermometr]("./images/aft.jpg")
 Due to the threat of Covid-19, we built an automatic forehead thermometer that can help with access control. Our product was deployed in every buildings in NTU and some other facilities. We were given a special award from NTU.
-p.s. The news report of our work can be found [here](https://flipedu.parenting.com.tw/article/6004)
+
+The news report of our work can be found [here](https://flipedu.parenting.com.tw/article/6004)
 
 ## [NTUEE Light Dance](https://www.youtube.com/watch?v=OTdngU70CHo)
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=OTdngU70CHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
