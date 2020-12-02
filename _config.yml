@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Liang-Yuan Wu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Liang-Yuan Wu"
 description              : &description "personal description"
 url                      : https://binomial14.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liang-Yuan Wu (Leo)"
+  name             : "Liang-Yuan(Leo) Wu"
   avatar           : "profile.png"
   bio              : "Senior Student at NTUEE"
   location         : "Taipei, Taiwan"
