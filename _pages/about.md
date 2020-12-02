@@ -20,5 +20,5 @@ Due to the threat of Covid-19, we built an automatic forehead thermometer that c
 p.s. The news report of our work can be found [here](https://flipedu.parenting.com.tw/article/6004)
 
 ## [NTUEE Light Dance](https://www.youtube.com/watch?v=OTdngU70CHo)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvyKmU4OM3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=OTdngU70CHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 I was the general cooperator of NTUEE Light Dance. We built a system of programable dance clothes that can sync with music. The highlight of our dance show was the light effect on our clothes. You'll definitely amazed by our video!
