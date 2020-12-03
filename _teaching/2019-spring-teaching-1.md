@@ -9,3 +9,5 @@ location: "Taipei, Taiwan"
 ---
 
 I assisted NTUEE freshman students to build a path following automatic robot based on Arduino and Raspberry Pi.
+
+I have written an article to introduce this course, you can find it [here](https://alumni.ee.ntu.edu.tw/?p=4597).
