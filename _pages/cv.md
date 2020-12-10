@@ -12,40 +12,23 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering (EE), National Taiwan University (NTU), 2017 ~ present
-  * 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Intern Machine Learning Engineer, May. 2020 ~ present
+  * Dragoncloud.ai
+  * Building an chatbot for practicing English and an AI classroom system.
+  * Supervisor: [Albert Ng](https://www.linkedin.com/in/albert-ng-3b683a29/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
-Skills
+Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">2nd prize, NTUEE Undergraduate Innovation Award</span> <span style="flex:  0 0 auto"><i>July. 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">MakeNTU Hackathon, Enterprise Award</span> <span style="flex:  0 0 auto"><i>March. 2018</i></span></p>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
 
 Teaching
 ======
@@ -55,4 +38,5 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Captain of NTUEE basketball team</span> <span style="flex:  0 0 auto"><i>June. 2019 ~ June. 2020</i></span></p>
+
