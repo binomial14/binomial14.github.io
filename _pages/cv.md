@@ -18,6 +18,7 @@ Work experience
 * Intern Machine Learning Engineer, May. 2020 ~ present
   * Dragoncloud.ai
   * Building an chatbot for practicing English and an AI classroom system.
+  * Familiar with AWS tools such as AWS transcribe, AWS translate
   * Supervisor: [Albert Ng](https://www.linkedin.com/in/albert-ng-3b683a29/)
 
 
