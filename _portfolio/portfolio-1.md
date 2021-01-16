@@ -1,6 +1,6 @@
 ---
 title: "Real-time-Picture-Drawing-Machine"
-excerpt: "The final project of ES Lab<br/><iframe width="560" height="315" src="https://www.youtube.com/embed/XFeANVEaMYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+excerpt: "The final project of ES Lab<br/><img src="/binomial14.github.io/images/writing_machine/architecture.png"/>"
 collection: portfolio
 ---
 
