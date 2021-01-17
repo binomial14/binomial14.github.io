@@ -1,6 +1,6 @@
 ---
 title: "Real-time-Picture-Drawing-Machine"
-excerpt: "The final project of ES Lab<br/><img src='/images/writing_machine/architecture.png'/>"
+excerpt: "The final project of ES Lab<br/><img src='/images/writing_machine/architecture.png'>"
 collection: portfolio
 ---
 
