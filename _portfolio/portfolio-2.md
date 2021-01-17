@@ -13,4 +13,5 @@ This is my final project for the class "Network and Multimedia Lab"
 <img src="/binomial14.github.io/images/dapp/architecture.png"/>
 
 The architecture of the drawing machine
-The code can be found [here](https://github.com/jeff-901/deapp-final)
+
+The code can be found [here](https://github.com/jeff-901/deapp-final).
