@@ -27,7 +27,6 @@ Honors
 ======
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Social Devotion Special Award, NTU</span> <span style="flex:  0 0 auto"><i>November. 2020</i></span></p>
-
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">2nd prize, NTUEE Undergraduate Innovation Award</span> <span style="flex:  0 0 auto"><i>July. 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">MakeNTU Hackathon, Enterprise Award</span> <span style="flex:  0 0 auto"><i>March. 2018</i></span></p>
 
@@ -40,7 +39,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Leadership
 ======
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">General Coordinator of 2020 MakeNTU</span> <span style="flex:  0 0 auto"><i>July. 2019 ~ October. 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Director of Academic Department of NTUEE Student Association</span> <span style="flex:  0 0 auto"><i>June. 2019 ~ June. 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Captain of NTUEE basketball team</span> <span style="flex:  0 0 auto"><i>June. 2019 ~ June. 2020</i></span></p>
 
+<iframe id="iframepdf" src="files/cv.pdf"></iframe>
