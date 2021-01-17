@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Liang-Yuan Wu, and also known as Leo. I am a senior student majoring in Electrical Engineering at National Taiwan University. I am interested in techniques and believe that as an engineer, we have not only the ability to solve problems, but also have the ability to find problems out. I hope myself to be the one who can give efforts to make the world a little bit better!
+Hi! My name is Liang-Yuan Wu, and also known as Leo. I am a senior student majoring in Electrical Engineering at National Taiwan University. I am interested in techniques and believe that as an engineer, we have not only the ability to solve problems, but also have the ability to find problems out. I expect myself to be the one who can give efforts to make the world a little bit better!
 
 I'm skilled at processing data in machine learning approach and web service building. Currently, I am supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)  as a member of [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/). My research interest is in machine learning and natural language processing. I currently focus on word embeddings in multilingual model. I am currently also an intern machine learning engineer in [Dragoncloud.ai](http://www.abc123.ai) since May, 2020.
 
