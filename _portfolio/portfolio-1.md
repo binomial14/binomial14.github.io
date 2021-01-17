@@ -1,5 +1,5 @@
 ---
-title: "Real-time-Picture-Drawing-Machine"
+title: "Real time Picture Drawing Machine"
 excerpt: "The final project of ES Lab<br/><img src='/images/writing_machine/architecture.png'>"
 collection: portfolio
 ---
@@ -15,3 +15,4 @@ This is my final project for the class "Embedded Systems Lab"
 <img src="/binomial14.github.io/images/writing_machine/architecture.png"/>
 
 The architecture of the drawing machine
+The code can be found [here](https://github.com/binomial14/Real-Time-Picture-Drawing-Machine)

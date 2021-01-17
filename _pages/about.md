@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Liang-Yuan Wu, and also known as Leo. I am a senior student majoring in Electrical Engineering at National Taiwan University. I am supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) as a member of [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/). My research interest is in machine learning and natural language processing. I currently focus on word embeddings in multilingual model. I am currently also an intern machine learning engineer in [Dragoncloud.ai](http://www.abc123.ai) since May, 2020.
+Hi! My name is Liang-Yuan Wu, and also known as Leo. I am a senior student majoring in Electrical Engineering at National Taiwan University. I am supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)  as a member of [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/). My research interest is in machine learning and natural language processing. I currently focus on word embeddings in multilingual model. I am currently also an intern machine learning engineer in [Dragoncloud.ai](http://www.abc123.ai) since May, 2020.
 
 These are the programming skills I'm familiar with:
 
@@ -39,6 +39,6 @@ I was the general cooperator of NTUEE Light Dance. We built a system of programa
 
 ![MakeNTU](/images/makentu.jpg)
 
-I was the gerneral cooperator of 2020 MakeNTU Makeathon, leading a team over 80 members to hold 2 day makeathon about IOT for all undergraduates over Taiwan. There were over 150 competitors with divere backgrounds such as EE, CS, ME, Dentistry and so on. This competition was collaberated with [Ministry of Education](https://english.moe.gov.tw/mp-1.html), and more than 10 international companies including [GOOGLE](https://about.google), [ARROW](https://www.arrow.com), [MediaTek](https://www.mediatek.com) and so on.
+I was the gerneral cooperator of 2020 MakeNTU Makeathon, leading a team over 80 members to hold 2 day makeathon about IOT for all undergraduates over Taiwan. There were over 150 competitors with divere backgrounds such as EE, CS, ME, Dentistry and so on. This competition was collaborated with [Ministry of Education](https://english.moe.gov.tw/mp-1.html), and more than 10 international companies including [GOOGLE](https://about.google), [ARROW](https://www.arrow.com), [MediaTek](https://www.mediatek.com) and so on.
 
 You can visit the [fanspage](https://www.facebook.com/makentu.ntuee) or check this [news report](https://udn.com/news/story/6928/4927267) for more information.
