@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
+Education
 ======
 * B.S. in Electrical Engineering (EE), National Taiwan University (NTU), 2017 ~ present
 
@@ -25,6 +25,8 @@ Work experience
 
 Honors
 ======
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Outgoing Exchange Student Scholarship, NTU</span> <span style="flex:  0 0 auto"><i>December. 2020</i></span></p>
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Social Devotion Special Award, NTU</span> <span style="flex:  0 0 auto"><i>November. 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">2nd prize, NTUEE Undergraduate Innovation Award</span> <span style="flex:  0 0 auto"><i>July. 2020</i></span></p>
@@ -43,6 +45,6 @@ Leadership
 ======
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">General Coordinator of 2020 MakeNTU</span> <span style="flex:  0 0 auto"><i>July. 2019 ~ October. 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Director of Academic Department of NTUEE Student Association</span> <span style="flex:  0 0 auto"><i>June. 2019 ~ June. 2020</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Captain of NTUEE basketball team</span> <span style="flex:  0 0 auto"><i>June. 2019 ~ June. 2020</i></span></p> -->
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Captain of NTUEE basketball team</span> <span style="flex:  0 0 auto"><i>June. 2019 ~ June. 2020</i></span></p> 
 
 <iframe id="iframepdf" src="/files/cv.pdf" width="100%" height="1200" style="border:none;" scrolling="no"></iframe>
