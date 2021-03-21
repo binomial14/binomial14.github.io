@@ -15,6 +15,8 @@ Education
 
 Work experience
 ======
+* Platform AI Intern, March. 2021 ~ present
+  * [Ucarer Inc.](https://ucarer.tw)
 * Intern Machine Learning Engineer, May. 2020 ~ present
   * Dragoncloud.ai
   * Building an chatbot for practicing English and an AI classroom system.
@@ -46,5 +48,7 @@ Leadership
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">General Coordinator of 2020 MakeNTU</span> <span style="flex:  0 0 auto"><i>July. 2019 ~ October. 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Director of Academic Department of NTUEE Student Association</span> <span style="flex:  0 0 auto"><i>June. 2019 ~ June. 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Captain of NTUEE basketball team</span> <span style="flex:  0 0 auto"><i>June. 2019 ~ June. 2020</i></span></p> 
+
+  
 
 <iframe id="iframepdf" src="/files/cv.pdf" width="100%" height="1200" style="border:none;" scrolling="no"></iframe>
