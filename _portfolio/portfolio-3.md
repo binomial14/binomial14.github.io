@@ -1,6 +1,6 @@
 ---
 title: "Marshmallow Roaster"
-excerpt: "The BEST SOLVER award winning project of 2021 MakeNTU<br/><iframe width="560" height="315" src="https://www.youtube.com/embed/BYy9Rd_AWzQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+excerpt: "The BEST SOLVER award winning project of 2021 MakeNTU<br/>"
 collection: portfolio
 
 ---
