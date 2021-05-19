@@ -28,11 +28,13 @@ Work experience
 Honors
 ======
 
++ <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">MakeNTU Hackathon, Conference Award: Best Solver</span> <span style="flex:  0 0 auto"><i>May. 2021</i></span></p>
+
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Outgoing Exchange Student Scholarship, NTU</span> <span style="flex:  0 0 auto"><i>December. 2020</i></span></p>
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Social Devotion Special Award, NTU</span> <span style="flex:  0 0 auto"><i>November. 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">2nd prize, NTUEE Undergraduate Innovation Award</span> <span style="flex:  0 0 auto"><i>July. 2020</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">MakeNTU Hackathon, Enterprise Award</span> <span style="flex:  0 0 auto"><i>March. 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">MakeNTU Hackathon, Enterprise Award: E.SUN Bank</span> <span style="flex:  0 0 auto"><i>March. 2018</i></span></p>
 
 
 
