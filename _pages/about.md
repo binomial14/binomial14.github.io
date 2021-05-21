@@ -14,7 +14,7 @@ I'm skilled at processing data in machine learning approach and web service buil
 
 I am going to be an exchange student in [The University of Edinburgh](https://www.ed.ac.uk) in Sep. 2021. I have been awarded for [2021 National Taiwan University Outgoing Exchange Student Scholarshiip](https://oia.ntu.edu.tw/en/page/index/menu_sn/2561), which is given to the exchange students with excellent internal screening score.
 
-Besides, I am a maker and love hand-made stuffs. I am also the starting shooting guard in NTUEE basketball team.
+In leisure time, I am a maker and love hand-made stuffs. I was just awarded the conference award: Best Solver in 2021 MakeNTU. I also like basketball very much, and I was the starting shooting guard in NTUEE basketball team.
 
 ## Special Experiences
 
