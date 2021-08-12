@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Liang-Yuan Wu, and you can call me Leo. I am a senior student majoring in Electrical Engineering at National Taiwan University. I am interested in techniques and believe that as an engineer, we have not only the ability to solve problems, but also have the ability to find problems out. I expect myself to be the one who can give efforts to make the world a little bit better!
+My name is Liang-Yuan Wu. I am a senior student majoring in Electrical Engineering at National Taiwan University. I am interested in techniques and believe that as an engineer, we have not only the ability to solve problems, but also have the ability to find problems out. I expect myself to be the one who can give efforts to make the world a little bit better!
 
-I'm skilled at processing data in machine learning approach and web service building. Currently, I am supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)  as a member of [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/). My research interest is in machine learning and natural language processing. I currently focus on word embeddings in multilingual models, and code-switching sentence generation. I am currently also an intern machine learning engineer in [Dragoncloud.ai](http://www.abc123.ai) since May, 2020, and an AI platform intern in [Ucarer Inc.](https://ucarer.tw) since March, 2021.
+My research interest is in Machine Learning and Natural Language Processing. I currently focus on code-switching text data augmentation. I am supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)  as a member of [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/). I was an intern machine learning engineer in [Dragoncloud.ai](http://www.abc123.ai), implemented ML systems for assisting English studying. After that, I joined [Ucarer](https://ucarer.tw) as an intern engineer, building an e-commerce platform and researching on customer relationship.
 
-I am going to be an exchange student in [The University of Edinburgh](https://www.ed.ac.uk) in Sep. 2021. I have been awarded for [2021 National Taiwan University Outgoing Exchange Student Scholarshiip](https://oia.ntu.edu.tw/en/page/index/menu_sn/2561), which is given to the exchange students with excellent internal screening score.
+I am going to be an exchange student in [The University of Edinburgh](https://www.ed.ac.uk) in Sep. 2021. I received [Y.L. Lin Scholarship]('https://scholarship.ylledu.org.tw/'), which is awarded to vision-driven and altruistic outgoing students. I was also awarded for [2021 National Taiwan University Outgoing Exchange Student Scholarshiip](https://oia.ntu.edu.tw/en/page/index/menu_sn/2561).
 
-In leisure time, I am a maker and love hand-made stuffs. I was just awarded the conference award: Best Solver in 2021 MakeNTU. I also like basketball very much, and I was the starting shooting guard in NTUEE basketball team.
+Besides, I am a maker and have implemented some special projects, including the Automatic Forehead Thermometer and the NTUEE Light Dance. I have also held one of the largest maker events in Taiwan: [MakeNTU](https://make.ntuee.org/).
 
 ## Special Experiences
 
