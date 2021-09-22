@@ -1,0 +1,25 @@
+---
+layout: archive
+permalink: /meeting/
+title: "Meeting Summary"
+author_profile: false
+---
+
+{% include base_path %}
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Summary</th>
+  </tr>
+  {% for post in site.meeting reversed %}
+    <tr>
+      <td>{{ post.date | date: '%Y-%m-%d'}}</td>
+      <td>{{ post.topic }}</td>
+      <td>{{post}}</td>
+    </tr>
+  {% endfor %}
+</table>
+
+

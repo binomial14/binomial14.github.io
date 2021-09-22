@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Liang-Yuan Wu. I am a senior student majoring in Electrical Engineering at National Taiwan University. I am interested in techniques and believe that as an engineer, we have not only the ability to solve problems, but also have the ability to find problems out. I expect myself to be the one who can give efforts to make the world a little bit better!
+My name is Liang-Yuan Wu. I am now a visiting student in the School of Informatics at the University of Edinburgh. I was a student majoring in Electrical Engineering at National Taiwan University from 2017 to 2021. I am interested in techniques and believe that as an engineer, we have not only the ability to solve problems, but also have the ability to find problems out. I expect myself to be the one who can give efforts to make the world a little bit better!
 
 My research interest is in Machine Learning and Natural Language Processing. I currently focus on code-switching text data augmentation. I am supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)  as a member of [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/). I was an intern machine learning engineer in [Dragoncloud.ai](http://www.abc123.ai), implemented ML systems for assisting English studying. After that, I joined [Ucarer](https://ucarer.tw) as an intern engineer, building an e-commerce platform and researching on customer relationship.
 

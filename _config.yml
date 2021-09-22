@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Liang-Yuan(Leo) Wu"
   avatar           : "profile.png"
-  bio              : "Senior Student at NTUEE"
+  bio              : "Visiting Student at the University of Edinburgh"
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "b06901032@ntu.edu.tw"
+  email            : "yuan.leowu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/leo-wu-20693b141/"
+  linkedin         : "https://www.linkedin.com/in/binomial14/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "binomial14wu"
   vine             :
   weibo            :
   xing             :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  meeting:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -243,6 +246,14 @@ defaults:
     values:
       layout: talk
       author_profile: true
+      share: true
+  # _meeting
+  - scope:
+      path: ""
+      type: meeting
+    values:
+      layout: meeting
+      author_profile: false
       share: true
 
 # Sass/SCSS
