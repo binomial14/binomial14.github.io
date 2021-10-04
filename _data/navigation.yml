@@ -18,5 +18,8 @@ main:
   - title: "Teaching"
     url: /teaching/ 
 
+  - title: "Records"
+    url: /records/
+
   # - title: "Guide"
   #   url: /markdown/
