@@ -9,8 +9,8 @@ main:
   - title: "Projects"
     url: /portfolio/
         
-  - title: "Notes"
-    url: /year-archive/
+  - title: "Blog"
+    url: /binomial14/
     
   - title: "CV"
     url: /cv/
