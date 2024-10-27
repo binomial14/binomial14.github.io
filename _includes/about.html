@@ -1,0 +1,38 @@
+{% include base_path %}
+<link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}">
+
+<table>
+    {% for post in site.about reversed %}
+      {{post}}
+    {% endfor %}
+</table>
+
+<div class="collaborators">
+    <div class="collaborator-item">
+        <a href="https://umich.edu">
+            <img src="images/logos/umich_logo.png" alt="UMich Logo" />
+        </a>
+        <div class="caption">
+            <p>University of Michigan</p>
+            <span>2022-Present</span>
+        </div>
+    </div>
+    <div class="collaborator-item">
+        <a href="https://www.ed.ac.uk">
+            <img src="images/logos/uoe_logo.png" alt="UoE Logo" />
+        </a>
+        <div class="caption">
+            <p>University of Edinburgh</p>
+            <span>2021</span>
+        </div>
+    </div>
+    <div class="collaborator-item">
+        <a href="https://www.ntu.edu.tw/english/">
+            <img src="images/logos/ntu_logo.png" alt="NTU Logo" />
+        </a>
+        <div class="caption">
+            <p>National Taiwan University</p>
+            <span>2017-2021</span>
+        </div>
+    </div>
+ </div>

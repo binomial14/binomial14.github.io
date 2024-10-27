@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Liang-Yuan (Leo) Wu"
   avatar           : "profile.png"
-  bio              : "1st year Master student at the University of Michigan"
+  bio              : "Research Assistant at Soundability Lab, University of Michigan"
   location         : "Ann Arbor, Michigan"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "yuan.leowu@gmail.com"
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=zfL37DoAAAAJ"
+  email            : "lyuanwu@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/binomial14/"
-  orcid            : 
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-3081-1134"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  about:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -188,6 +191,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   meeting:
+    output: true
+    permalink: /:collection/:path/
+  experience:
     output: true
     permalink: /:collection/:path/
 
@@ -253,6 +259,14 @@ defaults:
       type: meeting
     values:
       layout: meeting
+      author_profile: false
+      share: true
+  # _experience
+  - scope:
+      path: ""
+      type: experience
+    values:
+      layout: default
       author_profile: false
       share: true
 

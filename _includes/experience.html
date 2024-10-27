@@ -1,0 +1,11 @@
+{% include base_path %}
+
+<h2> Special Experiences </h2>
+<table>
+    {% for post in site.experience reversed %}
+      <tr>
+        <td>{{ post.title }}</td>
+        <td>{{post}}</td>
+      </tr>
+    {% endfor %}
+</table>
