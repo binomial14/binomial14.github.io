@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Liang-Yuan (Leo) Wu 吳兩原. I am now a research assistant working with Prof. [Dhruv "DJ" Jain](https://web.eecs.umich.edu/~profdj/) and part of the [Soundability Lab](https://accessibility.eecs.umich.edu) at the AI Laboratory, University of Michigan CSE. I recently graduated with a Master's Degree in Computer Science & Engineering from the University of Michigan.
+My name is Liang-Yuan "Leo" Wu 吳兩原. I am now a research assistant working with Prof. [Dhruv "DJ" Jain](https://web.eecs.umich.edu/~profdj/) and part of the [Soundability Lab](https://accessibility.eecs.umich.edu) at the AI Laboratory, University of Michigan CSE. I recently graduated with a Master's Degree in Computer Science & Engineering from the University of Michigan.
 
 My research lies at the intersection of Human-Computer Interaction (HCI) and Artificial Intelligence (AI), where I apply human-centered principles to enhance audio AI for diverse user needs, with a particular emphasis on accessibility for Deaf and Hard-of-Hearing (DHH) individuals. Currently, I focus on two directions: (1) adapting large multimodal models to provide holistic and customizable audio scene understanding (2) improved speech recognition in healthcare.
 
-I am now applying for a CS PhD starting in Fall 2025 and am excited to connect with and learn from professors and researchers who share similar interests!
+**I am now applying for a CS PhD starting in Fall 2025 and am excited to connect with and learn from professors and researchers who share similar interests!**
 
 <!-- Before that, I was a student majoring in Electrical Engineering at National Taiwan University from 2017 to 2021, and was a visiting student in the School of Informatics at the University of Edinburgh. I am interested in technology and believe that as an engineer, we have not only the ability to solve problems, but also have the ability to find problems out. I expect myself to be the one who can give efforts to make the world a little bit better!
 

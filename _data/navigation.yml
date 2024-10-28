@@ -6,20 +6,20 @@ main:
   # - title: "Talks"
   #   url: /talks/    
   
-  - title: "Projects"
-    url: /portfolio/
+  # - title: "Projects"
+  #   url: /portfolio/
         
   - title: "Blog"
     url: /binomial14/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV_20241028.pdf
     
-  - title: "Teaching"
-    url: /teaching/ 
+  # - title: "Teaching"
+  #   url: /teaching/ 
 
-  - title: "Records"
-    url: /records/
+  # - title: "Records"
+  #   url: /records/
 
   # - title: "Guide"
   #   url: /markdown/
