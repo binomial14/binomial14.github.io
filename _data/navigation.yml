@@ -5,15 +5,15 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
-  
-  # - title: "Projects"
-  #   url: /portfolio/
+
+  - title: "CV"
+    url: /files/CV_20241028.pdf
         
   - title: "Blog"
     url: /binomial14/
     
-  - title: "CV"
-    url: /files/CV_20241028.pdf
+  # - title: "Projects"
+  #   url: /portfolio/
     
   # - title: "Teaching"
   #   url: /teaching/ 
