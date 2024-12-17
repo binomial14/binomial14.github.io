@@ -7,13 +7,13 @@ main:
   #   url: /talks/    
 
   - title: "CV"
-    url: /files/CV_20241028.pdf
-        
+    url: /files/CV_20241217.pdf
+
+  - title: "Projects"
+    url: /portfolio/
+       
   - title: "Blog"
     url: /binomial14/
-    
-  # - title: "Projects"
-  #   url: /portfolio/
     
   # - title: "Teaching"
   #   url: /teaching/ 
