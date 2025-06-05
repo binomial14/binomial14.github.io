@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Liang-Yuan "Leo" Wu 吳兩原. I am now a research assistant working with Prof. [Dhruv "DJ" Jain](https://web.eecs.umich.edu/~profdj/) and part of the [Soundability Lab](https://accessibility.eecs.umich.edu) at the AI Laboratory, University of Michigan CSE. I recently graduated with a Master's Degree in Computer Science & Engineering from the University of Michigan.
+My name is Liang-Yuan "Leo" Wu 吳兩原. I am now working with Prof. [Dhruv "DJ" Jain](https://web.eecs.umich.edu/~profdj/) and the [Soundability Lab](https://accessibility.eecs.umich.edu) at the AI Laboratory, University of Michigan CSE. I recently graduated with a Master's Degree in Computer Science & Engineering from the University of Michigan.
 
-My research lies at the intersection of Human-Computer Interaction (HCI) and Artificial Intelligence (AI), where I apply human-centered principles to enhance audio AI for diverse user needs, with a particular emphasis on accessibility for Deaf and Hard-of-Hearing (DHH) individuals. Currently, I focus on two directions: (1) adapting large multimodal models to provide holistic and customizable audio scene understanding (2) improved speech recognition in healthcare.
+I’m a researcher and engineer working at the intersection of Human-Computer Interaction (HCI) and Artificial Intelligence (AI), with a focus on building human-centered technologies that make sound and speech more accessible. My work often involves close collaboration with the Deaf and Hard of Hearing (DHH) community to explore how people perceive, trust, and engage with audio AI.
 
+My recent work includes, (1) using large multimodal models to interpret auditory scenes and generate personalized sound descriptions, (2) improving captioning quality with large language models (LLMs), and (3) exploring captioning usage in constrained environments such as clinical communication.
+
+I have hands-on experience in software development, with a background in deep learning, audio and language processing, and full-stack development. I also bring experience in UX research, including mixed-methods evaluation with users. **Currently, I'm exploring research and industry opportunities in audio AI and human-centered machine learning.** I’m always excited about new collaborations and conversations, please feel free to reach out!
+
+[Resume](/files/Resume_20250605.pdf) / [CV](/files/CV_20250605.pdf)
 
 <!-- Before that, I was a student majoring in Electrical Engineering at National Taiwan University from 2017 to 2021, and was a visiting student in the School of Informatics at the University of Edinburgh. I am interested in technology and believe that as an engineer, we have not only the ability to solve problems, but also have the ability to find problems out. I expect myself to be the one who can give efforts to make the world a little bit better!
 
