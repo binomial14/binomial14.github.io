@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Liang-Yuan 'Leo' Wu"
 title_separator          : "-"
-name                     : &name "Liang-Yuan Wu"
-description              : &description "personal description"
+name                     : &name "Liang-Yuan 'Leo' Wu"
+description              : &description "Personal homepage for Liang-Yuan."
 url                      : https://binomial14.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "binomial14/binomial14.github.io"
@@ -185,6 +185,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:

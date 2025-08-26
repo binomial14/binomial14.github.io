@@ -1,0 +1,19 @@
+{% include base_path %}
+
+<div class="project-card">
+  <div class="project-image">
+    <img src="{{ project.thumbnail | prepend: '/images/' }}" alt="{{ project.title }}">
+  </div>
+  <div class="project-info">
+    <h3>{{ post.title }}</h3>
+    <p>
+      {% if post.github_link %}
+        <a href="{{ project.github_link }}" target="_blank">GitHub</a>
+      {% endif %}
+      {% if post.demo_link %}
+        | <a href="{{ project.demo_link }}" target="_blank">Demo</a>
+      {% endif %}
+    </p>
+    <p class="project-description">{{ project.description }}</p>
+  </div>
+</div>
