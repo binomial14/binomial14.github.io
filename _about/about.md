@@ -17,7 +17,7 @@ I have hands-on experience in software development, with a background in deep le
 
 **Currently, I am applying for 2026 CS PhD programs, focusing on sound and HCI.** I am always excited to discuss my research and potential collaboration, please feel free to reach out!
 
-[Resume](/files/Resume_20250605.pdf) / [CV](/files/CV_20250912.pdf)
+[Resume](/files/Resume_20250912.pdf) / [CV](/files/CV_20250912.pdf)
 
 <!-- Before that, I was a student majoring in Electrical Engineering at National Taiwan University from 2017 to 2021, and was a visiting student in the School of Informatics at the University of Edinburgh. I am interested in technology and believe that as an engineer, we have not only the ability to solve problems, but also have the ability to find problems out. I expect myself to be the one who can give efforts to make the world a little bit better!
 
