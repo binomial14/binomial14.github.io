@@ -1,0 +1,9 @@
+My name is Liang-Yuan "Leo" Wu 吳兩原. I am now working with Prof. [Dhruv "DJ" Jain](https://web.eecs.umich.edu/~profdj/) and the [Soundability Lab](https://accessibility.eecs.umich.edu) at the AI Laboratory, University of Michigan CSE. I hold a Master's Degree in Computer Science & Engineering from the University of Michigan, and a Bachelor's Degree in Electrical Engineering from National Taiwan University.
+
+I am a researcher and engineer working at the intersection of Human-Computer Interaction (HCI) and Artificial Intelligence (AI), with a focus on building human-centered technologies that make sound and speech more accessible. My work often involves close collaboration with the Deaf and Hard of Hearing (DHH) community to understand how people perceive, trust, and engage with audio AI.
+
+My recent focus includes: (1) Verbal sounds: ASR and captioning, particularly in challenging environments such as medical settings and atypical speech. (2) Non-verbal sound: Understanding and interpreting broad auditory scenes, and (3) Emotions in verbal and non-verbal cues: investigating how they are perceived and whether they are intelligible.
+
+I have hands-on experience in software development, with a background in deep learning, audio and language processing, and full-stack development. I also bring experience in UX research, including mixed-methods evaluation with users. In addition to my research, I am developing an open-source adaptive captioning project for people with atypical speech. 
+
+**Currently, I am applying for 2026 CS PhD programs, focusing on sound and HCI.** I am always excited to discuss my research and potential collaboration, please feel free to reach out!
