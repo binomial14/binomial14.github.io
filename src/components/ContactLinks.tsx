@@ -58,7 +58,7 @@ export default function ContactLinks() {
       </li>
       <li>
         <a
-          href="/files/CV_20250912.pdf"
+          href="/files/CV_20250915.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 hover:text-blue-600 transition-colors"

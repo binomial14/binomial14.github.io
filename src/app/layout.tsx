@@ -8,16 +8,17 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const grotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-grotesk" });
 const jetbrains = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono" });
 
-export const metadata = { title: "Liang-Yuan (Leo) Wu" };
+export const metadata = { title: 'Liang-Yuan “Leo” Wu' };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="zh-Hant" className={`${inter.variable} ${grotesk.variable} ${jetbrains.variable}`}>
       <body className="flex flex-col min-h-screen bg-slate-50 text-slate-900 font-sans">
-        {/* 頁面主要區塊 */}
         <div className="flex flex-1 overflow-hidden">
-          <Sidebar /> {/* Sidebar 本身定義寬度和高度 */}
-          <main className="flex-1 p-8 overflow-y-auto">{children}</main>
+          <Sidebar /> 
+          <main className="flex-1 p-8 overflow-y-auto">
+            {children}
+          </main>
         </div>
 
         <Footer />

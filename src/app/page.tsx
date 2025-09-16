@@ -46,7 +46,7 @@ export default async function HomePage() {
     <div className="space-y-12">
       {/* About / Introduction */}
       <section>
-        <h2 className="text-2xl font-semibold mb-4">&lt;TODO&gt;</h2>
+        {/* <h2 className="text-2xl font-semibold mb-4">&lt;TODO&gt;</h2> */}
         <div
           className="max-w-3xl mx-auto text-justify space-y-4"
           dangerouslySetInnerHTML={{ __html: aboutContent }}
@@ -76,6 +76,58 @@ export default async function HomePage() {
           ))}
         </div>
       </section>
+
+      {/* Collaborators */}
+      <section>
+        <div className="max-w-3xl grid grid-cols-3 gap-2 items-start">
+          <div className="collaborator-item text-center">
+            <a href="https://umich.edu" target="_blank" rel="noopener noreferrer">
+              <img
+                src="/images/logos/umich_logo.png"
+                alt="UMich Logo"
+                className="h-14 mx-auto mb-1 object-contain"
+              />
+            </a>
+            <div className="caption leading-tight">
+              <p className="font-medium">University of Michigan</p>
+              <span className="text-xs text-gray-600">2022–Present</span>
+            </div>
+          </div>
+
+          <div className="collaborator-item text-center">
+            <a href="https://www.ed.ac.uk" target="_blank" rel="noopener noreferrer">
+              <img
+                src="/images/logos/uoe_logo.png"
+                alt="UoE Logo"
+                className="h-14 mx-auto mb-1 object-contain"
+              />
+            </a>
+            <div className="caption leading-tight">
+              <p className="font-medium">University of Edinburgh</p>
+              <span className="text-xs text-gray-600">2021</span>
+            </div>
+          </div>
+
+          <div className="collaborator-item text-center">
+            <a
+              href="https://www.ntu.edu.tw/english/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="/images/logos/ntu_logo.png"
+                alt="NTU Logo"
+                className="h-14 mx-auto mb-1 object-contain"
+              />
+            </a>
+            <div className="caption leading-tight">
+              <p className="text-xsfont-medium">National Taiwan University</p>
+              <span className="text-xs text-gray-600">2017–2021</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
     </div>
   );
 }
